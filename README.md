@@ -1,5 +1,2 @@
 # Gey_Pro
-for lern
-
-
-## Project Notes
+profile using html and css 
